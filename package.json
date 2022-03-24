@@ -1,0 +1,17 @@
+{
+  "name": "addqcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "axe-core": "^4.4.1",
+    "cypress": "^9.5.2",
+    "cypress-axe": "^0.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
